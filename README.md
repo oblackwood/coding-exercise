@@ -8,8 +8,8 @@ Please allow yourself at least 1 hour of uninterrupted time for this task, but f
 
 We should be able to run your program with a single command. The program should print the answers to the questions and then exit. The answers should be in the following form:
 
-  <question number>. <answer>
-
+  Question number  -  Answer 
+  
 You will be submitting an application to be reviwed by a group of peers, this is a good chance to showcase your technical skills. Our expectation is that you will submit code that you feel best reflects your skills and that you would be happy to put into a production environment. 
 
 ## The application
