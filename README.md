@@ -30,4 +30,9 @@ Some insights into what we'll be looking for (and what we will not):
 - It's better to complete 1 task than to start 3
 - We will be looking at how you approach the task (e.g. how you break it into sub-tasks) and how you structure your code to answer the questions
 
+## Top tips
+— The code you write should be suitable for production
+— We expect your code to be well tested and a TDD approach would be received well
+— The code should be written with maintainability in mind
+
 Good Luck!
