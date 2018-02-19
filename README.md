@@ -16,11 +16,13 @@ You will be submitting an application to be reviewed by a group of peers, this i
 
 ## The application
 
-Your application needs to read the attached AddressBook file and answer the following questions:
+Your application should take a single command line argument specifying the filename of the address book.
+It will need to read the AddressBook file and answer the following questions:
 
 1. How many males are in the address book?
 2. Who is the oldest person in the address book?
 3. How many days older is Bill than Paul?
+4. How many days older is Gemma than Sarah?
 
 Some insights into what we'll be looking for (and what we will not):
 
